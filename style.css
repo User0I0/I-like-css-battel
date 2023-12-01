@@ -1,11 +1,11 @@
 html{
     background: #000;
+    margin: 0 auto;
 }
   body{
     background: #F5D6B4;
   }
   div {
-    margin: 0 auto;
     width: 200px;
     height: 200px;
     background: #dd6b4d;
