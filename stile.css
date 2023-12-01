@@ -1,0 +1,14 @@
+html{
+    background: #000;
+}
+  body{
+    background: #F5D6B4;
+  }
+  div {
+    margin: 0 auto;
+    width: 200px;
+    height: 200px;
+    background: #dd6b4d;
+    border-radius: 100px 100px 100px 100px;
+    margin: -8px
+  }
